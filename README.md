@@ -67,7 +67,7 @@ I'm working toward becoming a **Data Analyst** with expertise in:
 * Python
 * Programming Logic
 * Problem Solving
-* Git & GitHub
+* GitHub
 
 **Upcoming Technologies**
 
