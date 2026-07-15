@@ -59,7 +59,7 @@ I'm working toward becoming a **Data Analyst** with expertise in:
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,github,vscode" />
 </p>
 
 **Currently Working With**
