@@ -4,9 +4,13 @@
 
 ### 🚀 Aspiring Data Analyst | 🐍 Python Programmer | 💡 Project-Based Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;Python+Programmer;Building+Projects+Every+Day;Learning+One+Step+at+a+Time" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi+I'm+Chandu+Tummalapalli;Aspiring+Data+Analyst;Python+Programmer;Building+Projects+One+Step+at+a+Time;Strong+Fundamentals+Lead+to+Strong+Careers" />
+</p>
 
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=chandutummalapalli4&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
 
@@ -14,66 +18,85 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology Student
-- 🐍 Currently learning **Python** through project-based learning
-- 🧠 Interested in **Problem Solving** and **Programming Logic**
-- 📊 Aspiring **Data Analyst**
-- 🚀 Building one project at a time to strengthen my fundamentals
+I'm an aspiring **Data Analyst** currently pursuing a **B.Tech in Information Technology**.
+
+I enjoy learning by building. Rather than jumping directly into advanced topics, I'm focusing on mastering Python fundamentals through hands-on projects, problem-solving, and consistent practice.
+
+My goal is to develop strong programming and analytical skills that will help me solve real-world data problems.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Current Learning Journey
 
-- ✅ Python Fundamentals
-- ✅ Loops & Nested Loops
-- ✅ Pattern Programming
-- ✅ Functions
-- 🔄 Problem Solving
+✔ Python Fundamentals
+
+✔ Conditional Statements
+
+✔ Loops & Nested Loops
+
+✔ Pattern Programming
+
+✔ Functions
+
+🔄 Next: File Handling → Object-Oriented Programming → SQL → Data Analytics
 
 ---
 
-## 🎯 Roadmap
+## 🎯 Career Goal
 
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Pandas
-- 🔢 NumPy
-- 📈 Data Visualization
-- 📉 Statistics
-- 🤖 Machine Learning
+I'm working toward becoming a **Data Analyst** with expertise in:
+
+* Python
+* SQL
+* Pandas
+* NumPy
+* Data Visualization
+* Statistics
+* Machine Learning
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
+
+**Currently Working With**
+
+* Python
+* Programming Logic
+* Problem Solving
+* Git & GitHub
+
+**Upcoming Technologies**
+
+* SQL
+* Pandas
+* NumPy
+* Matplotlib
+* Power BI
+* Excel
 
 ---
 
 ## 📂 Featured Projects
 
 ### ⭐ Python Pattern Generator
-- 30+ Star, Number & Alphabet Patterns
-- Menu-Driven Console Application
+
+A menu-driven Python application featuring a variety of star, number, and alphabet patterns to strengthen nested loops and logical thinking.
 
 ### 🔢 Number Analyzer
-- Digit Operations
-- Reverse Number
-- Palindrome
-- Armstrong Number
-- Largest & Smallest Digit
 
-### 🧩 Python Functions
-- Basic Functions
-- Parameters & Arguments
-- Return Statement
-- Function Practice Programs
+A Python project that performs multiple digit-based operations, including reverse, palindrome check, Armstrong number check, largest digit, smallest digit, sum, product, and digit count.
+
+### 🧩 Python Functions Practice
+
+A collection of beginner-friendly programs demonstrating function creation, parameters, arguments, positional arguments, and reusable code.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=chandutummalapalli4&show_icons=true&theme=github_dark&hide_border=true" />
@@ -90,27 +113,28 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 2026 Goals
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandutummalapalli4&theme=algolia&no-frame=true&margin-w=10" />
-</p>
+* ✅ Build a strong Python foundation
+* ✅ Complete 30+ Python practice projects
+* 🔄 Learn SQL
+* 🔄 Learn Pandas & NumPy
+* 🔄 Build original Data Analytics projects
+* 🎯 Secure a Data Analyst internship
 
 ---
 
 ## 💡 Learning Philosophy
 
-> **"Build strong fundamentals first. Everything else becomes easier."**
+> **"Consistency beats intensity. Build, learn, improve, repeat."**
+
+Every concept I learn is reinforced by writing code, building projects, and sharing my progress on GitHub.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-<p align="center">
-<a href="https://github.com/chandutummalapalli4">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+* 💼 GitHub: **github.com/chandutummalapalli4**
 
 ---
 
@@ -118,8 +142,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-**Learn • Build • Improve • Repeat 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
+**Always learning. Always building. 🚀**
 
 </div>
