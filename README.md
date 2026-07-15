@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Chandu+Tummalapalli;Aspiring+Data+Analyst;Python+Programmer;Project-Based+Learner;Building+Strong+Fundamentals;Learning+One+Project+at+a+Time" />
+# Hi 👋, I'm Chandu Tummalapalli
 
-### 🚀 Aspiring Data Analyst | 🐍 Python Programmer | 💡 Project-Based Learner
+### Aspiring Data Analyst | Python Programmer | Project-Based Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;Python+Programmer;Building+Projects+Every+Day;Learning+One+Step+at+a+Time;Strong+Fundamentals+%3D+Strong+Career" />
 
 </div>
 
@@ -10,37 +12,36 @@
 
 # 👨‍💻 About Me
 
-Hi! I'm **Chandu Tummalapalli**, an aspiring **Data Analyst** passionate about building strong programming fundamentals before diving into advanced technologies.
+I'm **Chandu Tummalapalli**, an aspiring **Data Analyst** who believes that mastering the fundamentals is the key to becoming a successful programmer.
 
-I believe that learning through **projects** is the best way to grow. Instead of memorizing syntax, I focus on understanding programming logic by building practical console-based applications.
+Instead of rushing into advanced technologies, I'm building a strong foundation by learning Python through practical coding exercises, problem-solving, and mini projects.
 
-Every project I complete improves my problem-solving skills and prepares me for real-world data analytics.
+Every concept I learn is reinforced by implementing it in code before moving to the next topic.
 
 ---
 
 # 🎯 Career Goal
 
-My goal is to become a **Data Analyst** by mastering:
+My goal is to become a **Data Analyst** with strong programming and analytical skills.
 
-- 🐍 Python
-- 🗄 SQL
-- 📊 Pandas
-- 🔢 NumPy
-- 📈 Data Visualization
-- 📉 Statistics
-- 🤖 Machine Learning
+I'm currently focusing on building a solid Python foundation before moving on to:
+
+* SQL
+* Pandas
+* NumPy
+* Data Visualization
+* Statistics
+* Machine Learning
 
 ---
 
 # 🌱 Currently Learning
 
-- ✅ Python Fundamentals
-- ✅ Conditional Statements
-- ✅ Loops
-- ✅ Pattern Programming
-- ✅ Functions
-- 🔄 Problem Solving
-- 🔄 Clean Coding Practices
+* 🐍 Python Programming
+* 🔄 Functions
+* 🧠 Problem Solving
+* ⭐ Pattern Programming
+* 💡 Programming Logic
 
 ---
 
@@ -48,7 +49,7 @@ My goal is to become a **Data Analyst** by mastering:
 
 > **"Build strong fundamentals first. Everything else becomes easier."**
 
-I follow a **project-based learning approach**, where every programming concept is reinforced by building mini-projects before moving on to more advanced applications.
+I follow a **project-based learning approach**, where every programming concept is practiced through mini projects before moving to real-world applications.
 
 ---
 
@@ -57,25 +58,26 @@ I follow a **project-based learning approach**, where every programming concept 
 ### Programming Language
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Future Learning Stack
+### Learning
 
-<p>
+* Python
+* Programming Logic
+* Problem Solving
+* Functions
+* Pattern Programming
 
-<img src="https://skillicons.dev/icons?i=python,mysql" height="50"/>
+### Future Stack
 
-</p>
-
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- Excel
-- Machine Learning
+* SQL
+* Pandas
+* NumPy
+* Matplotlib
+* Power BI
+* Excel
+* Machine Learning
 
 ---
 
@@ -83,46 +85,39 @@ I follow a **project-based learning approach**, where every programming concept 
 
 ## ⭐ Python Pattern Generator
 
-A menu-driven Python application that generates:
-
-- Star Patterns
-- Number Patterns
-- Alphabet Patterns
-
-Built to strengthen nested loops and pattern logic.
+A menu-driven Python application that generates various star, number, and alphabet patterns while strengthening nested loop and logic-building skills.
 
 ---
 
 ## 🔢 Number Analyzer
 
-A console-based Python application capable of:
+A console-based Python project capable of:
 
-- Sum of Digits
-- Product of Digits
-- Largest Digit
-- Smallest Digit
-- Reverse Number
-- Palindrome Check
-- Armstrong Number Check
-- Even/Odd Digits
-- Digit Count
+* Sum of digits
+* Product of digits
+* Largest digit
+* Smallest digit
+* Reverse Number
+* Palindrome Check
+* Armstrong Number Check
+* Even/Odd Digits
+* Digit Count
 
 ---
 
 ## 🧩 Python Functions Practice
 
-A beginner-friendly collection covering:
+A collection of beginner-friendly Python function programs covering:
 
-- Basic Functions
-- Parameters
-- Arguments
-- Positional Arguments
-- Return Statement
-- Function Practice Programs
+* Parameters
+* Arguments
+* Positional Arguments
+* Return Statement
+* Reusable Functions
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -144,55 +139,34 @@ A beginner-friendly collection covering:
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandutummalapalli4&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
-- ✅ Master Python Fundamentals
-- ✅ Build 30+ Python Projects
-- 🔄 Learn SQL
-- 🔄 Learn Pandas
-- 🔄 Learn NumPy
-- 🔄 Learn Data Visualization
-- 🔄 Build End-to-End Data Analytics Projects
-- 🎯 Become a Data Analyst
+* ✅ Master Python Fundamentals
+* ✅ Build 30+ Python Projects
+* 🔄 Learn SQL
+* 🔄 Learn Pandas & NumPy
+* 🔄 Learn Data Visualization
+* 🔄 Build Data Analytics Projects
+* 🎯 Become a Data Analyst
 
 ---
 
 # 💡 Quote
 
-> **"Consistency beats intensity. Learn every day, build every week, improve every month."**
+> **"Consistency beats intensity. One project at a time."**
 
 ---
 
 # 📫 Connect With Me
 
-<p>
-
-<a href="https://github.com/chandutummalapalli4">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</p>
-
-GitHub: **https://github.com/chandutummalapalli4**
+* 💼 GitHub: https://github.com/chandutummalapalli4
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### 🚀 Happy Coding!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
+**Happy Coding! 🚀**
 
 </div>
