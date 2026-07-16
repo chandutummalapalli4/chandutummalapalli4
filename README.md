@@ -127,17 +127,6 @@ Includes:
 </p>
 
 ---
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandutummalapalli4&theme=algolia&no-frame=true&margin-w=12"/>
-
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 * ✅ Master Python Fundamentals
