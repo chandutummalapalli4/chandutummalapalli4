@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chandu Tummalapalli
 
-### 🚀 Aspiring Data Analyst • Python Programmer • Project-Based Learner
+### 🚀 Aspiring Data Analyst • Python Developer• Project-Based Learner
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Chandu+Tummalapalli;Aspiring+Data+Analyst;Python+Developer;Building+Projects+Every+Day;Learning+One+Step+at+a+Time;Welcome+to+My+GitHub!" />
@@ -45,7 +45,7 @@ My long-term goal is to become a **Data Analyst** capable of transforming data i
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,github,vscode" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ My long-term goal is to become a **Data Analyst** capable of transforming data i
 * Strengthens logical thinking
 
 🔗 Repository:
-`https://github.com/chandutummalapalli4/YOUR_REPO_NAME`
+`https://github.com/chandutummalapalli4/python_pattern_generator`
 
 ---
 
@@ -77,7 +77,7 @@ Features:
 * Even/Odd Digit Detection
 
 🔗 Repository:
-`https://github.com/chandutummalapalli4/YOUR_REPO_NAME`
+`https://github.com/chandutummalapalli4/python-number-analyzer`
 
 ---
 
@@ -92,7 +92,7 @@ Includes:
 * Reusable Functions
 
 🔗 Repository:
-`https://github.com/chandutummalapalli4/YOUR_REPO_NAME`
+`https://github.com/chandutummalapalli4/function_basics`
 
 ---
 
