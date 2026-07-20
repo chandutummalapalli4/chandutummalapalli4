@@ -126,7 +126,7 @@ https://github.com/chandutummalapalli4/python-number-analyzer
 
 🔗 **Repository**
 
-https://github.com/chandutummalapalli4
+https://github.com/chandutummalapalli4/Python-Functions-Mastery
 
 ---
 
