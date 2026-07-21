@@ -1,17 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm **Chandu Tummalapalli**
+# Hi, I'm Chandu Tummalapalli 👋
 
-### 🚀 Aspiring Data Analyst • Python Developer • Project-Based Learner
+### Aspiring Data Analyst | Python Developer | IT Undergraduate
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Chandu+Tummalapalli;Aspiring+Data+Analyst;Python+Developer;Building+Real+Projects;Learning+One+Concept+at+a+Time;Welcome+to+My+GitHub!" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+Developer;Building+Projects+Every+Day;Learning+One+Step+at+a+Time" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-Learning-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Learning-orange?style=for-the-badge"/>
+<p>
+  <a href="https://github.com/chandutummalapalli4">
+    <img src="https://img.shields.io/badge/GitHub-chandutummalapalli4-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 </div>
@@ -20,47 +20,15 @@
 
 # 👨‍💻 About Me
 
-I'm an **Information Technology undergraduate** passionate about **Python Programming** and **Data Analytics**.
+🎓 B.Tech Information Technology Student
 
-I believe the best way to learn programming is by **building projects**.
+📊 Aspiring Data Analyst passionate about solving problems with data.
 
-Instead of only completing tutorials, I practice every concept through coding exercises, mini projects, and GitHub repositories.
+🐍 Learning Python through project-based practice.
 
-Currently, I'm strengthening my Python fundamentals before moving into Data Analytics, SQL, Pandas, NumPy, Power BI, and Machine Learning.
+🚀 Currently building Python projects while strengthening programming fundamentals.
 
----
-
-# 🌱 Current Focus
-
-* 🐍 Python Programming
-* 🧩 Python Functions
-* 🧠 Problem Solving
-* 📂 Git & GitHub
-* 💻 Building Python Projects
-
----
-
-# 🎯 Learning Roadmap
-
-```text
-🐍 Python Fundamentals        ██████████ 100%
-
-🧩 Functions                  ████████░░ 80%
-
-📂 File Handling              ░░░░░░░░░░
-
-🏗 Object-Oriented Programming ░░░░░░░░░░
-
-🗄 SQL                        ░░░░░░░░░░
-
-🐼 Pandas                     ░░░░░░░░░░
-
-📊 NumPy                      ░░░░░░░░░░
-
-📈 Power BI                   ░░░░░░░░░░
-
-🤖 Machine Learning           ░░░░░░░░░░
-```
+📚 Next goal: SQL → Pandas → NumPy → Power BI → Machine Learning.
 
 ---
 
@@ -68,138 +36,154 @@ Currently, I'm strengthening my Python fundamentals before moving into Data Anal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,md"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 
 </p>
+
+---
+
+# 📚 Currently Learning
+
+- Python Functions
+- Problem Solving
+- Git & GitHub
+- Python Mini Projects
 
 ---
 
 # 🚀 Featured Projects
 
-## ⭐ Python Pattern Generator
+## 🐍 Python Pattern Generator
 
-### Features
+✔ 40+ Pattern Programs
 
-* ⭐ Star Patterns
-* 🔢 Number Patterns
-* 🔤 Alphabet Patterns
-* 📋 Menu-Driven Program
-* 🧠 Pattern Logic Practice
+✔ Star Patterns
 
-🔗 **Repository**
+✔ Number Patterns
 
-https://github.com/chandutummalapalli4/python_pattern_generator
+✔ Alphabet Patterns
 
----
+✔ Menu Driven Pattern Generator
 
-## 🔢 Number Analyzer
-
-### Features
-
-* Sum of Digits
-* Product of Digits
-* Reverse Number
-* Largest Digit
-* Smallest Digit
-* Palindrome
-* Armstrong Number
-* Prime Number
-* Even/Odd Digit Analysis
-
-🔗 **Repository**
-
-https://github.com/chandutummalapalli4/python-number-analyzer
+🔗 https://github.com/chandutummalapalli4/python_pattern_generator
 
 ---
 
-## 🐍 Python Functions Mastery
+## 🔢 Python Number Analyzer
 
-### Features
+✔ Reverse Number
 
-* Function Basics
-* Parameters & Arguments
-* Default Arguments
-* Keyword Arguments
-* Modular Programming
-* Multiple Mini Projects
-* Banking Management System
+✔ Palindrome
 
-🔗 **Repository**
+✔ Armstrong Number
 
-https://github.com/chandutummalapalli4/Python-Functions-Mastery
+✔ Prime Number
+
+✔ Largest & Smallest Digit
+
+✔ Digit Analysis
+
+🔗 https://github.com/chandutummalapalli4/python-number-analyzer
 
 ---
 
+## ⚙ Python Functions Mastery
 
-# 🔥 GitHub Streak
+✔ Function Basics
 
-<p align="center">
+✔ Parameters & Arguments
 
-<img src="https://streak-stats.demolab.com?user=chandutummalapalli4&theme=github-dark&hide_border=true"/>
+✔ Return Statement
 
-</p>
+✔ Student Information System
+
+✔ Banking Management System
+
+✔ Employee Payroll Management System
+
+🔗 https://github.com/chandutummalapalli4/Python-Functions-Mastery
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chandutummalapalli4&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandutummalapalli4&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
 # 📊 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandutummalapalli4&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Learning Roadmap
 
-* ✅ Master Python Fundamentals
-* 🔄 Complete Python Functions
-* ⬜ Learn File Handling
-* ⬜ Master Object-Oriented Programming
-* ⬜ Learn SQL
-* ⬜ Learn Pandas & NumPy
-* ⬜ Learn Power BI
-* ⬜ Build 15+ Python Projects
-* ⬜ Build Data Analytics Portfolio Projects
-* 🎯 Become a Data Analyst
+```text
+Python Fundamentals        ██████████ 100%
+
+Functions                  ██████████ 100%
+
+File Handling              ░░░░░░░░░░
+
+Object-Oriented Programming░░░░░░░░░░
+
+SQL                        ░░░░░░░░░░
+
+Pandas                     ░░░░░░░░░░
+
+NumPy                      ░░░░░░░░░░
+
+Power BI                   ░░░░░░░░░░
+
+Machine Learning           ░░░░░░░░░░
+```
 
 ---
 
-# 💡 Learning Philosophy
+# 💼 2026 Goals
 
-> **"Strong fundamentals create strong professionals."**
-
-> **"Every concept I learn is reinforced by building a real project."**
-
-> **"Consistency beats intensity. Learn → Build → Improve → Repeat."**
+- Complete Python Programming
+- Master SQL
+- Learn Pandas & NumPy
+- Build 15+ Python Projects
+- Build Data Analytics Portfolio
+- Learn Power BI
+- Start Machine Learning
+- Become a Data Analyst
 
 ---
 
-# 📫 Connect With Me
+# 💭 Philosophy
+
+> **Learn → Practice → Build → Improve → Repeat**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/chandutummalapalli4">
-
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </p>
 
-**GitHub**
-
-github.com/chandutummalapalli4
-
----
-
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=150&section=footer"/>
+*Always learning. Always building.*
 
 </div>
