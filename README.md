@@ -228,12 +228,12 @@ My goal is not just to learn syntax, but to develop problem-solving skills and b
 </a>
 
 <!-- Replace with your LinkedIn URL -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/chandu-tummalapalli-8aa5a7325/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <!-- Replace with your email -->
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:chandutummalapalli4@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
