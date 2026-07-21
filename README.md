@@ -52,8 +52,7 @@
 
 | Language | Tools | Version Control |
 |-----------|-------|----------------|
-| Python | VS Code | Git |
-         |  GitHub | |
+| Python | VS Code | Git |  GitHub | |
 
 </div>
 
