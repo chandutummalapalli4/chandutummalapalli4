@@ -1,11 +1,11 @@
-<div align="center">
-
 # 👋 Hi, I'm **Chandu Tummalapalli**
+
+<div align="center">
 
 ### 🚀 Aspiring Data Analyst | Python Developer | IT Undergraduate
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;Python+Developer;Building+Projects+Every+Day;Learning+Through+Projects;Future+Data+Analyst" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+Developer;Project-Based+Learner;Building+Projects+Every+Day;Learning+One+Concept+at+a+Time" />
 </p>
 
 <p align="center">
@@ -18,31 +18,38 @@
 
 # 👨‍💻 About Me
 
-🎓 **B.Tech Information Technology Student**
+🎓 B.Tech Information Technology Student
 
-📊 Passionate about **Data Analytics**, **Python Programming**, and solving real-world problems through data.
+📊 Passionate about **Data Analytics**, **Python Programming**, and solving real-world problems using data.
 
-💻 I believe the best way to learn programming is by **building projects**, so every concept I learn is converted into a practical application.
+💻 I follow a **project-based learning** approach where every concept I learn is converted into a practical project.
 
-🚀 Currently mastering **Python** before moving into:
-
-- SQL
-- Pandas
-- NumPy
-- Power BI
-- Machine Learning
-
-🎯 **Career Goal:** Become a Data Analyst and build impactful data-driven solutions.
+My goal is to build strong programming fundamentals before moving into professional Data Analytics tools and technologies.
 
 ---
 
-# 💼 What I'm Currently Working On
+# 🎯 Career Goal
 
-- 🐍 Python Programming
-- 🧩 Python Functions
-- 🧠 Problem Solving
-- 📂 Git & GitHub
-- 🚀 Building Real Python Projects
+Become a **Data Analyst** capable of solving business problems through:
+
+* Python
+* SQL
+* Statistics
+* Data Visualization
+* Power BI
+* Machine Learning
+
+---
+
+# 🚀 What I'm Currently Learning
+
+* 🐍 Python Functions
+* ✨ **kwargs**
+* 🌍 Variable Scope
+* 🔁 Recursion
+* ⚡ Lambda Functions
+* 🚀 Python Mini Projects
+* 📂 Git & GitHub
 
 ---
 
@@ -50,9 +57,9 @@
 
 <div align="center">
 
-| Language | Tools | Version Control |
-|-----------|-------|----------------|
-| Python | VS Code | Git |  GitHub | |
+| Programming | Tools   | Version Control |
+| ----------- | ------- | --------------- |
+| Python      | VS Code | Git & GitHub    |
 
 </div>
 
@@ -70,21 +77,20 @@
 
 ### Highlights
 
-- ⭐ 40+ Pattern Programs
-- ⭐ Star Patterns
-- ⭐ Number Patterns
-- ⭐ Alphabet Patterns
-- ⭐ Hollow Patterns
-- ⭐ Menu-Driven Application
-- ⭐ Pattern Logic Practice
+* 40+ Pattern Programs
+* Star Patterns
+* Number Patterns
+* Alphabet Patterns
+* Hollow Patterns
+* Menu Driven Application
 
-**Tech Used**
+**Tech**
 
 `Python`
 
-🔗 Repository
+Repository
 
-**https://github.com/chandutummalapalli4/python_pattern_generator**
+https://github.com/chandutummalapalli4/python_pattern_generator
 
 ---
 
@@ -92,23 +98,23 @@
 
 ### Highlights
 
-- Reverse Number
-- Palindrome Number
-- Armstrong Number
-- Prime Number
-- Duck Number
-- Largest Digit
-- Smallest Digit
-- Digit Frequency
-- Even/Odd Digit Analysis
+* Reverse Number
+* Palindrome Number
+* Armstrong Number
+* Prime Number
+* Duck Number
+* Largest Digit
+* Smallest Digit
+* Frequency of Digits
+* Even/Odd Digit Analysis
 
-**Tech Used**
+**Tech**
 
 `Python`
 
-🔗 Repository
+Repository
 
-**https://github.com/chandutummalapalli4/python-number-analyzer**
+https://github.com/chandutummalapalli4/python-number-analyzer
 
 ---
 
@@ -116,37 +122,36 @@
 
 ### Highlights
 
-- Function Basics
-- Parameters & Arguments
-- Default Parameters
-- Keyword Arguments
-- Return Statement
-- Function Calling
-- Student Information System
-- Banking Management System
-- Employee Payroll Management System
+* Function Basics
+* Parameters & Arguments
+* Default Arguments
+* Keyword Arguments
+* Return Statement
+* *args
+* **kwargs (In Progress)
+* Mini Projects
 
-**Tech Used**
+**Tech**
 
 `Python`
 
-🔗 Repository
+Repository
 
-**https://github.com/chandutummalapalli4/Python-Functions-Mastery**
+https://github.com/chandutummalapalli4/Python-Functions-Mastery
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=chandutummalapalli4&theme=github-dark-blue&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=chandutummalapalli4\&theme=github-dark-blue\&hide_border=true\&border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <div align="center">
 
@@ -156,66 +161,191 @@
 
 ---
 
-# 🎯 Learning Roadmap
+# 🚀 Current Learning Journey
 
 ```text
-🐍 Python Fundamentals          ██████████ 100%
+Phase 1 — Python Foundations
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🧩 Functions                    ██████████ 100%
+✅ Python Basics
+
+✅ Conditionals
+
+✅ Loops
+
+🟨 Functions (In Progress)
+
+Upcoming
+
+⬜ Data Structures
+
+⬜ File Handling
+
+⬜ Exception Handling
+
+⬜ Modules & Packages
+
+⬜ Basic OOP
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Phase 2 — Data Handling
+
+⬜ SQL
+
+⬜ NumPy
+
+⬜ Pandas
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Phase 3 — Data Analysis
+
+⬜ Statistics
+
+⬜ Matplotlib
+
+⬜ Seaborn
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Phase 4 — Business Intelligence
+
+⬜ Excel
+
+⬜ Power BI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Phase 5 — Career Preparation
+
+⬜ Portfolio Projects
+
+⬜ Interview Preparation
+
+🎯 Data Analyst
+```
+
+---
+
+# 📈 Learning Roadmap
+
+```text
+🐍 Python Basics                ██████████ 100%
+
+🔀 Conditionals                 ██████████ 100%
+
+🔁 Loops                        ██████████ 100%
+
+🧩 Functions                    █████████░
+
+📚 Data Structures              ░░░░░░░░░░
 
 📂 File Handling                ░░░░░░░░░░
 
-🏗 Object-Oriented Programming  ░░░░░░░░░░
+⚠️ Exception Handling           ░░░░░░░░░░
+
+📦 Modules & Packages           ░░░░░░░░░░
+
+🏗 Basic OOP                    ░░░░░░░░░░
 
 🗄 SQL                          ░░░░░░░░░░
 
-🐼 Pandas                       ░░░░░░░░░░
-
 📊 NumPy                        ░░░░░░░░░░
 
-📈 Power BI                     ░░░░░░░░░░
+🐼 Pandas                       ░░░░░░░░░░
 
-🤖 Machine Learning             ░░░░░░░░░░
+📈 Statistics                   ░░░░░░░░░░
+
+📉 Matplotlib                   ░░░░░░░░░░
+
+🎨 Seaborn                      ░░░░░░░░░░
+
+📑 Excel                        ░░░░░░░░░░
+
+📊 Power BI                     ░░░░░░░░░░
+
+🚀 Portfolio Projects           ░░░░░░░░░░
+
+💼 Interview Preparation        ░░░░░░░░░░
 ```
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Master Python Fundamentals
-- ✅ Complete Python Functions
-- ⬜ Learn File Handling
-- ⬜ Learn Object-Oriented Programming
-- ⬜ Master SQL
-- ⬜ Learn Pandas
-- ⬜ Learn NumPy
-- ⬜ Learn Power BI
-- ⬜ Build 15+ Python Projects
-- ⬜ Build Data Analytics Portfolio Projects
-- ⬜ Learn Machine Learning
-- 🎯 Become a Data Analyst
+## Python
+
+* ✅ Master Python Fundamentals
+* 🔄 Complete Python Functions
+* ⬜ Master Data Structures
+* ⬜ Learn File Handling
+* ⬜ Learn Exception Handling
+* ⬜ Learn Modules
+* ⬜ Learn Basic OOP
+
+---
+
+## Data Analytics
+
+* ⬜ Learn SQL
+* ⬜ Master NumPy
+* ⬜ Master Pandas
+* ⬜ Learn Statistics
+* ⬜ Learn Matplotlib
+* ⬜ Learn Seaborn
+* ⬜ Learn Excel
+* ⬜ Learn Power BI
+
+---
+
+## Portfolio
+
+* ⬜ Build 30+ Python Projects
+* ⬜ Build 10+ Data Analytics Projects
+* ⬜ Create a Professional Portfolio
+
+---
+
+## Career
+
+🎯 Become a Data Analyst
 
 ---
 
 # 📚 Learning Philosophy
 
-> **"Strong fundamentals create strong professionals."**
+> **Strong fundamentals build strong professionals.**
 
-> **"Every concept I learn is reinforced by building a real project."**
+> **Every concept I learn becomes a practical project.**
 
-> **"Consistency beats intensity."**
+> **Consistency beats intensity.**
 
-> **Learn → Practice → Build → Improve → Repeat**
+### My Learning Process
+
+```
+Learn
+      ↓
+Practice
+      ↓
+Mini Projects
+      ↓
+GitHub
+      ↓
+Improve
+      ↓
+Repeat
+```
 
 ---
 
 # 🌟 Why This GitHub?
 
-This GitHub profile documents my learning journey as I grow from a Python learner to a Data Analyst.
+This GitHub profile documents my journey from learning Python to becoming a Data Analyst.
 
-Every repository represents concepts I have learned and implemented through practical projects.
+Rather than only completing tutorials, I focus on applying every concept through hands-on projects.
 
-My goal is not just to learn syntax, but to develop problem-solving skills and build a strong portfolio that reflects continuous improvement.
+Each repository represents a milestone in my learning journey and demonstrates my progress in programming, problem-solving, and project development.
 
 ---
 
@@ -227,12 +357,10 @@ My goal is not just to learn syntax, but to develop problem-solving skills and b
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<!-- Replace with your LinkedIn URL -->
 <a href="https://www.linkedin.com/in/chandu-tummalapalli-8aa5a7325/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<!-- Replace with your email -->
 <a href="mailto:chandutummalapalli4@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
@@ -245,7 +373,7 @@ My goal is not just to learn syntax, but to develop problem-solving skills and b
 
 ## ⭐ Thanks for Visiting!
 
-### *"Code • Learn • Build • Grow"*
+### **Code • Learn • Build • Grow**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3B82F6,100:6A5ACD&section=footer"/>
 
