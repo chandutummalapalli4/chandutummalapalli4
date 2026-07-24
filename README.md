@@ -324,17 +324,17 @@ Phase 5 — Career Preparation
 ### My Learning Process
 
 ```
-Learn
+   Learn
       ↓
-Practice
+  Practice
       ↓
-Mini Projects
+ Mini Projects
       ↓
-GitHub
+   GitHub
       ↓
-Improve
+  Improve
       ↓
-Repeat
+   Repeat
 ```
 
 ---
